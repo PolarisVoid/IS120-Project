@@ -6,7 +6,7 @@ Pivot Calendar Home Page
 - [X] **5** Initialize a new Git repository for the project, and push it to your GitHub account.
 - [X] **10** Create the HTML framework for a landing page that includes a Header, Sections, and Footer
 - [X] **25** Use CSS for styling elements including fonts, colors, margins, padding and borders
-- [ ] **10** Include 3+ imgaes that are relevant to the content of the website
+- [X] **10** Include 3+ imgaes that are relevant to the content of the website
 - [X] **10** Use a color scheme that is consistent visually appealing and applicable to the content of the website
 
 - [ ] **15** include and interactive feature on your website (Carousel, modal, dropdown ...) Max 2 for 30 points
