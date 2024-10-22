@@ -1,19 +1,10 @@
 @media (min-width: 800px) {
-    #desktop-nav {
-        display: block;
-        position: sticky;
-        position: -webkit-sticky;
-        top: 0;
-    }
     #mobile-nav {
         display: none;
     }
 }
 
 @media (max-width: 800px) {
-    #mobile-nav {
-        display: block;
-    }
     #desktop-nav {
         display: none;
     }
