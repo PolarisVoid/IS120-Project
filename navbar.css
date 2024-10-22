@@ -1,6 +1,9 @@
 @media (min-width: 800px) {
     #desktop-nav {
         display: block;
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
     }
     #mobile-nav {
         display: none;
