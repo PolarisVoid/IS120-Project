@@ -1,5 +1,14 @@
 .landing-photo {
-  background-image: url("./landing-page.avif");
+  background-image: url("./assets/landing-page.avif");
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.empty-jar {
+  background-image: url(./assets/empty-jar.jpg);
   background-attachment: fixed;
   background-size: cover;
   display: grid;
@@ -28,4 +37,13 @@
   z-index: 1;
   background: inherit;
   overflow: hidden;
+}
+
+.spacer {
+  height: 10vh;
+  background-color: var(--primary-1);
+}
+
+.w-40 {
+    width: 40%;
 }
