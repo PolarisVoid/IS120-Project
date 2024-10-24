@@ -16,6 +16,42 @@
   justify-content: center;
 }
 
+.rocks {
+  background-image: url(./assets/rocks.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.pebbles {
+  background-image: url(./assets/pebbles.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.sand {
+  background-image: url(./assets/sand.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.filled-jar {
+  background-image: url(./assets/filled-jar.webp);
+  background-attachment: fixed;
+  background-size: cover;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
 .glassy-background:before {
   content: "";
   position: absolute;
@@ -45,6 +81,10 @@
 }
 
 .w-40 {
-    width: 40%;
+  width: 40%;
 }
 
+.text-white {
+  color: white;
+  border-color: white;
+}
